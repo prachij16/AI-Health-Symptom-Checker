@@ -1,0 +1,8 @@
+Fever,Cough,Headache,Fatigue,Disease
+1,1,1,1,flu
+1,1,0,1,cold
+0,1,0,0,allergy
+1,0,1,1,malaria
+0,0,1,0,migraine
+1,1,1,1,flu
+0,1,1,0,cold
